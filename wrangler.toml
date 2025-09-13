@@ -4,5 +4,5 @@ compatibility_date = "2024-02-01"
 
 [[kv_namespaces]]
 binding = "nfd"
-id = ""
+id = "f51e59669d2149f3b1202e13dff0e8e4"
 preview_id = ""
