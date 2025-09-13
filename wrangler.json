@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "bot-forward", //NAMA PROJEK
+  "name": "anonchat", //NAMA PROJEK
   "main": "src/index.js",
   "compatibility_date": "2025-01-29",
   "observability": {
@@ -9,7 +9,7 @@
   "kv_namespaces": [
     {
       "binding": "nfd",
-      "id": "ID_KV_DATABASE"
+      "id": "f51e59669d2149f3b1202e13dff0e8e4"
     }
   ]
 }
